@@ -1,0 +1,11 @@
+---
+ name: Google Maps API sample WebGL Overlay with a fox
+ description: Experiments of Google Maps WebGL Overlay feature based on the below WebGL Overlay sample using Khronos Group's sample fox model.
+ authors:
+   - Google Maps Platform
+   - TAKAHASHI Shuuji
+ resources: []
+ normalize_css: no
+ load_type: d
+ ...
+ 
