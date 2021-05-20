@@ -1,0 +1,30 @@
+/* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+#map {
+  height: 95%;
+}
+
+#head {
+  height: 5%;
+}
+
+button {
+  padding: 0.5em 30px;
+  margin: 10px 5px;
+  background: #fff59d;
+  border: yellow 3px solid;
+  border: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Optional: Makes the sample page fill the window. */
+html,
+body {
+  font-family: system-ui;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
